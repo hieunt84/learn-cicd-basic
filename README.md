@@ -9,5 +9,5 @@
 ### Docs
 
 ### Ref
-    -https://www.youtube.com/watch?v=9pZ2xmsSDdo&t=212s
-    -https://dev.to/thawkin3/software-engineers-need-to-know-devops-too-and-that-starts-with-ci-cd-47n8
+- [1.Ref1](https://www.youtube.com/watch?v=9pZ2xmsSDdo&t=212s)
+- [2.Ref2](https://dev.to/thawkin3/software-engineers-need-to-know-devops-too-and-that-starts-with-ci-cd-47n8)
